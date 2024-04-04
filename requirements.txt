@@ -1,0 +1,7 @@
+streamlit
+#openai
+#google-cloud-vision
+streamlit-option-menu
+#unbabel-comet
+#pydub
+#google-api-python-client
